@@ -1,0 +1,37 @@
+
+
+p.colorbox {
+  border-top: 100px solid green;
+border-right: 100px solid red;
+border-bottom: 100px solid blue;
+border-left: 100px solid yellow;
+  width:0px
+}
+p.abc {
+  border-top: 100px solid #98e4f2;
+border-right: 100px solid #0b0bf7;
+border-left: 100px solid #474095;
+  width:0px
+}
+
+p.top {
+  background:lightgreen ;
+   width:200px ;
+    height:50px;
+  border-top: 5px solid green;
+border-right: 5px solid green;
+border-bottom: 5px dotted green;
+border-left: 5px solid green;
+    margin:0px ;
+  
+}
+p.bottom {
+ background:lightgreen ;
+   width:150px ;
+    height:200px;
+border-right: 5px solid green;
+border-bottom: 5px solid green;
+border-left: 5px solid green;
+  margin:0px 25px;
+    padding: 0px;
+}
