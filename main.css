@@ -7,11 +7,19 @@ border-bottom: 100px solid blue;
 border-left: 100px solid yellow;
   width:0px
 }
-p.abc {
+div.abc {
   border-top: 100px solid #98e4f2;
 border-right: 100px solid #0b0bf7;
 border-left: 100px solid #474095;
   width:0px
+}
+span.abc {
+  border-top: 100px solid #98e4f2;
+border-right: 100px solid #0b0bf7;
+border-left: 100px solid #474095;
+  width:0px
+      margin:500px;
+    
 }
 
 p.top {
