@@ -13,14 +13,21 @@ border-right: 100px solid #0b0bf7;
 border-left: 100px solid #474095;
   width:0px
 }
-span.abc {
+
+
+div.abc {
   border-top: 100px solid #98e4f2;
 border-right: 100px solid #0b0bf7;
 border-left: 100px solid #474095;
-  width:0px
-      margin:500px;
     
+    
+
+ width:0px
+    height:0px
+    margin:500px;
+    display: inline-block;
 }
+
 
 p.top {
   background:lightgreen ;
@@ -42,4 +49,54 @@ border-bottom: 5px solid green;
 border-left: 5px solid green;
   margin:0px 25px;
     padding: 0px;
+}
+div#ff{
+    
+    font-size: 100px;
+    color: white;
+    display: inline-block;
+margin-left: 100px;
+   
+}
+
+div#gg{
+    font-size: 10px;
+    color: white;
+    display: inline-block;
+}
+div#hh{
+    margin: 0px 50px ;
+    
+   
+}
+
+
+div#bb{
+    background: white;
+}
+div#aa{
+    width: 300px;
+    background: #5e44cb;
+    margin-left: auto;
+margin-right: auto;
+}
+h4{
+    color: gainsboro;
+}
+h1{
+    color: white;
+}
+h3{ 
+    color: white;
+    width: 250px;
+    padding: 5px ;
+    border: 1px solid white;
+    margin-left: auto;
+margin-right: auto;
+}
+span#dd{
+    color: black;
+}
+span#gg{
+    
 }
