@@ -63,7 +63,7 @@ div#bb{
 
 div#aa{
     width: 300px;
-    background: #5e44cb;
+    background: #341d93;
     margin-left: auto;
 margin-right: auto;
 
@@ -112,11 +112,14 @@ h3{
 h4{
     color: gainsboro;
 }
+i.fa fa-envelope-o{display: inline-block;}
+i.fa fa-signal{display: inline-block;}
+i.fa fa fa-male{display: inline-block;}
+i.fa fa-smile-o{display: inline-block;}
+p#cc{display: inline-block;}
 
-
-span#dd{
+div#dd{
     color: black;
+    display: inline-block;
 }
-span#gg{
-    
-}
+span#da {color: black;}
