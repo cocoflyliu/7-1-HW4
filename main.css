@@ -51,47 +51,39 @@ border-left: 5px solid green;
     padding: 0px;
 }
 
-
-
-div#bb{
-    background: white;
+div.top{
+    background-color: #1c2f4a;
     width: 300px;
-  
-     margin-left: auto;
-    margin-right: auto;
-}
-
-div#aa{
-    width: 300px;
-    background: #341d93;
+    height: 300px;
     margin-left: auto;
 margin-right: auto;
-
-
 }
 
-h1{
+div.bottom{
+    background: white;
+ color: gainsboro;
+     width: 300px;
+    height: 250px;
+    margin-left: auto;
+margin-right: auto;
+    display: inline-block;
+    border-color: black;
+    
+}
+
+div.fp{
     color: white;
     padding: 20px ;
     font-family: arial;
     font-weight: 50;
     font-size: 20px;
 }
-div#ff{
-    
-    font-size: 100px;
-    color: white;
-    display: inline-block;
-margin-left: 100px;
-   
-}
-
-div#gg{
+div#mo{
     font-size: 10px;
     color: white;
     display: inline-block;
 }
-div#hh{
+div#moy{
     margin: 0px 90px ;
     font-size: 20px;
     color: white;
@@ -101,25 +93,64 @@ h3{
     color: white;
     width: 230px;
     padding: 5px ;
-    border: 2px solid white;
+    border: 2px solid white ;
     margin-left: auto;
     margin-right: auto;
-    
-    font-family: arial;
     font-weight: lighter;
 }
+div#oo{
+    
+    font-size: 100px;
+    color: white;
+    display: inline-block;
+margin-left: 100px;
+}
 
-h4{
-    color: gainsboro;
+div.first{   
+   border-bottom: 2px dotted gray;
+  margin: 20px;
+    font-size: 15px;
+    text-align: center;
+}
+
+div#message{ 
+    display: inline-block;
+    }
+div.second{   
+   border-bottom: 2px dotted gray;
+  margin: 20px;
+    font-size: 15px;
+    text-align: center;
+}
+div.third{   
+   border-bottom: 2px dotted gray;
+  margin: 20px;
+    font-size: 15px;
+    text-align: center;
+}
+div.forth{   
+   border-bottom: 2px dotted gray;
+  margin: 20px;
+    font-size: 15px;
+    text-align: center;
 }
 i.fa fa-envelope-o{display: inline-block;}
 i.fa fa-signal{display: inline-block;}
 i.fa fa fa-male{display: inline-block;}
 i.fa fa-smile-o{display: inline-block;}
-p#cc{display: inline-block;}
 
-div#dd{
+
+div#lida{
     color: black;
     display: inline-block;
 }
 span#da {color: black;}
+div.ften{
+    display: inline-block;
+}
+div.all{ 
+    display: inline-block;
+    margin: 20px;
+    border: 1px solid black;
+    }
+div.big{}
